@@ -1,4 +1,6 @@
-# Components
+# NGBeaver Training Module - Components and Directives
+
+This project is designed to help learn good practices for how to structure components and use directives in Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
