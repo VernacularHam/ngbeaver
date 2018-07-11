@@ -1,2 +1,45 @@
-# ngbeaver
-Training modules for Angular 6+
+# Angular 6+ Training Modules
+These are several useful code samples for training on given topics in Angular, with a focus on versions 6 and beyond.
+
+# Setting up an Angular Development Environment
+
+## Workspace
+### Links
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Node.js (Install LTS version)](https://nodejs.org/en/)
+* [Cmder (optional, preferable for UI dev over Windows cmd prompt)](http://cmder.net/)
+* [Git](https://git-scm.com/download/win) or [Sourcetree](https://www.sourcetreeapp.com/)
+
+### VSCode Suggested Extensions
+Click the extensions icon at the bottom of the left icon bar, then search for these and install them.
+* Angular v6 Typescript Snippets (by johnpapa)
+* Beautify (by HookyQR)
+* Font-awesome codes for html (snippets) (by medzhidov)
+* HTML Snippets (by Mohamed Abusaid)
+* Path Intellisense (vy Christian Kohler)
+* TSLint (by egamma)
+
+## Browsers
+### Links
+* [Chrome](https://www.google.com/chrome/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Edge (should already be installed in Windows 10)](https://www.microsoft.com/en-us/windows/microsoft-edge)
+* Internet Explorer 11 should already be installed.
+
+## Learning Git
+* [try.github.io](https://try.github.io/)
+* [The Simple Guide to Git](http://rogerdudler.github.io/git-guide/)
+* [Git SCM](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Oh Shit Git! (More advanced topics for fixing mistakes)](http://ohshitgit.com/)
+* [Git subreddit](https://www.reddit.com/r/git/)
+
+## NPM Dependencies
+The UI has various external dependencies managed by the NPM (Node Package Manager) tool, install them as follows:
+* Open the Cmder tool or your preferred command line tool and navigate to where your source has been saved locally.
+* Enter the following command 'npm install'
+* Wait for all dependencies to finish installing.
+* Debugging hint - if you ever have weird issues with building the UI, the basic 'did you plug it in' step is to delete your entire node_modules folder and run a fresh npm install command.
+
+
+
+
