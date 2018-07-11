@@ -8,7 +8,7 @@ These are several useful code samples for training on given topics in Angular, w
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Node.js (Install LTS version)](https://nodejs.org/en/)
 * [Cmder (optional, preferable for UI dev over Windows cmd prompt)](http://cmder.net/)
-* [Git](https://git-scm.com/download/win) or [Sourcetree](https://www.sourcetreeapp.com/)
+* [Git](https://git-scm.com/download/win) or [Sourcetree](https://www.sourcetreeapp.com/) or [GitKraken](https://www.gitkraken.com/download)
 
 ### VSCode Suggested Extensions
 Click the extensions icon at the bottom of the left icon bar, then search for these and install them.
@@ -22,7 +22,7 @@ Click the extensions icon at the bottom of the left icon bar, then search for th
 ## Browsers
 ### Links
 * [Chrome](https://www.google.com/chrome/)
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * [Edge (should already be installed in Windows 10)](https://www.microsoft.com/en-us/windows/microsoft-edge)
 * Internet Explorer 11 should already be installed.
 
