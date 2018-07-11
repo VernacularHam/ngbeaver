@@ -33,8 +33,12 @@ Click the extensions icon at the bottom of the left icon bar, then search for th
 * [Oh Shit Git! (More advanced topics for fixing mistakes)](http://ohshitgit.com/)
 * [Git Subreddit](https://www.reddit.com/r/git/)
 
+## Angular CLI
+The UI is heavily dependent on Angular's CLI tool. Once you have Node installed, please open Cmder or a command prompt window and type the following command 'npm install -g @angular/cli'. While the CLI will be installed as a dependency of the project, this command installs it globally so it is usable outside the project folder.
+* [Angular CLI Reference](https://cli.angular.io/)
+
 ## NPM Dependencies
-The UI has various external dependencies managed by the NPM (Node Package Manager) tool, install them as follows:
+The UI has various external dependencies managed by the NPM (Node Package Manager) tool. Once you have pulled down the project repo, you would install them as follows:
 * Open the Cmder tool or your preferred command line tool and navigate to where your source has been saved locally.
 * Enter the following command 'npm install'
 * Wait for all dependencies to finish installing.
@@ -51,6 +55,7 @@ The UI has various external dependencies managed by the NPM (Node Package Manage
 * [Javascript Cheatsheet](https://github.com/krishnr/JavaScript-cheat-sheet)
 * [Another Javascript Cheatsheet](https://medium.com/tldr-tech/javascript-cheat-sheet-for-absentminded-devs-scope-context-and-some-other-things-d15abd4cff61)
 * [Scalable and Modular Architecture for CSS](https://smacss.com/)
+* [Getting started with NPM](https://docs.npmjs.com/getting-started/what-is-npm)
 
 
 
