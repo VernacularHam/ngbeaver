@@ -1,4 +1,4 @@
-# Performance Considerations and Change Detection in Angular
+# NGBeaver Training Module - Performance Considerations and Change Detection in Angular
 
 Let's kick this off with two good articles about Change Detection in Angular that everyone needs to read - both from the excellent [Netanel Basal](https://netbasal.com):
 
